@@ -20,6 +20,11 @@ Downloaded the course materials
 Opened the first example notebook.
 Watched the environment setup video
 
+1/4/2021
+
+Watched the Jupyter Notebooks video and tried out JN
+
+
 TODO:
 
 Setup ssh key for easier github interaction
