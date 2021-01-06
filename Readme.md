@@ -24,6 +24,22 @@ Watched the environment setup video
 
 Watched the Jupyter Notebooks video and tried out JN
 
+1/5/2021
+
+Watched the Python Crash Course lectures (very quickly)
+Created ssh key for github via ssh-keygen
+Started ssh agent:
+eval "$(ssh-agent -s)"
+Added key:
+ssh-add ~/.ssh/id_github
+Copied public key to clipboard:
+xclip -selection clipboard < ~/.ssh/id_github.pub
+In GitHub, Profile, Settings, I added this ^ key
+Then I reconfigured this repo to use ssh:
+git remote set-url origin git@github.com:andythummel/python-for-data-science-bootcamp-udemy.git
+
+
+
 
 TODO:
 
