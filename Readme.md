@@ -38,12 +38,15 @@ In GitHub, Profile, Settings, I added this ^ key
 Then I reconfigured this repo to use ssh:
 git remote set-url origin git@github.com:andythummel/python-for-data-science-bootcamp-udemy.git
 
+1/6/2021
 
-
+Watched the intro to numpy lecture
+The python location I'm using is: 
+/home/andy/anaconda3/bin/python
+I ran:
+conda install numpy
+Watched part of the numpy arrays lecture
 
 TODO:
 
-Setup ssh key for easier github interaction
-
-Setup git command line aliases
-
+Finish numpy arrays lecture
