@@ -47,6 +47,11 @@ I ran:
 conda install numpy
 Watched part of the numpy arrays lecture
 
+1/7/2021
+
+Finished the numpy arrays lecture
+Started numpy array indexing lecture
+
 TODO:
 
 Finish numpy arrays lecture
