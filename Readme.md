@@ -52,6 +52,10 @@ Watched part of the numpy arrays lecture
 Finished the numpy arrays lecture
 Started numpy array indexing lecture
 
+1/9/2021
+
+Finished array indexing lecture
+
 TODO:
 
 Finish numpy arrays lecture
