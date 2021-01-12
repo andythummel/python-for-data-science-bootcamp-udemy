@@ -59,3 +59,8 @@ Finished array indexing lecture
 TODO:
 
 Finish numpy arrays lecture
+
+1/11/2021
+
+Practiced numpy indexing via expressions
+Watched Numpy operations lecture
