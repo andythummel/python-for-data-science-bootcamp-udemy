@@ -64,3 +64,7 @@ Finish numpy arrays lecture
 
 Practiced numpy indexing via expressions
 Watched Numpy operations lecture
+
+1/12/2021
+
+Started on the numpy exercises for section 04
