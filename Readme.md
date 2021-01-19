@@ -77,3 +77,7 @@ Watched the intro do Pandas lecture and the intro to pd.Series lecture
 1/14/2021
 
 Watched the Dataframes 1 lecture
+
+1/18/2021
+
+Watched the Dataframes part 2 lecture
