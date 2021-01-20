@@ -81,3 +81,7 @@ Watched the Dataframes 1 lecture
 1/18/2021
 
 Watched the Dataframes part 2 lecture
+
+1/19/2021
+
+Watched the multi-indexed Dataframes lecture
