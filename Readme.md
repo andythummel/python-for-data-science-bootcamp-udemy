@@ -85,3 +85,7 @@ Watched the Dataframes part 2 lecture
 1/19/2021
 
 Watched the multi-indexed Dataframes lecture
+
+1/20/2021
+
+Watched, missing data, group by, and merge,concat,join lecture
