@@ -89,3 +89,7 @@ Watched the multi-indexed Dataframes lecture
 1/20/2021
 
 Watched, missing data, group by, and merge,concat,join lecture
+
+1/22/2021
+
+Watched the pandas operations lecture
